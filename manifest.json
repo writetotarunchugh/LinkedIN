@@ -1,0 +1,11 @@
+{
+   "name": "POC LinkedIn",
+   "description": "POC Extract Data From Linked",
+   "version":"1.0",
+   "author":"Tarun Chugh",
+   "manifest_version":3,
+   "action":{
+    "default_popup":"popup.html"
+   },
+   "permissions":["activeTab","scripting", "nativeMessaging"]   
+}
